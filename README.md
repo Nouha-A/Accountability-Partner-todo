@@ -5,3 +5,7 @@ Step 1 : make a todo app
 3- keep it simple
 4 - the plan : 
 simple app on react native 
+
+
+
+finidh this asap fr 
